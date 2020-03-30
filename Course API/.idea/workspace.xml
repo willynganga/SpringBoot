@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc12992-16de-4e52-b144-9dedb636fda2" name="Default Changelist" comment="" />
+    <list default="true" id="dcc12992-16de-4e52-b144-9dedb636fda2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/willy/course/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/willy/course/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/willy/course/CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/willy/course/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/willy/topic/TopicRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/willy/topic/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/willy/topic/Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/willy/topic/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/willy/topic/TopicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/willy/topic/TopicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/willy/topic/TopicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/willy/topic/Topic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/willy/topic/Topic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/willy/topic/TopicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/willy/topic/TopicController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/willy/topic/TopicService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/willy/topic/TopicService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,13 +43,26 @@
     </option>
   </component>
   <component name="ProjectId" id="1Zi2d6iR7k4Rs6sicjs5MtNdKud" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/io/willy/course" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src/main/java/io/willy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/io/willy/course" />
+      <recent name="$PROJECT_DIR$/src/main/java/io/willy" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="CourseApiApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -63,39 +97,54 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="74" y="155" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585310331616">
+    <state x="74" y="155" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585562351810">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="74" y="155" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1366.741@0.27.1366.741" timestamp="1585310331616" />
-    <state x="149" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1585308827287">
+    <state x="74" y="155" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1366.741@0.27.1366.741" timestamp="1585562351810" />
+    <state x="149" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1585561130171">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="149" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1585308827287" />
+    <state x="149" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1585561130171" />
     <state x="390" y="67" width="575" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585308218598">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="390" y="67" width="575" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.27.1366.741@0.27.1366.741" timestamp="1585308218598" />
-    <state x="78" y="27" width="517" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585309247669">
+    <state x="78" y="27" width="517" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585560186052">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="78" y="27" width="517" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.741@0.27.1366.741" timestamp="1585309247669" />
-    <state width="637" height="232" key="GridCell.Tab.0.bottom" timestamp="1585314180184">
+    <state x="78" y="27" width="517" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.741@0.27.1366.741" timestamp="1585560186051" />
+    <state x="100" y="126" width="483" height="541" key="DiffContextDialog" timestamp="1585560062066">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="637" height="232" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1585314180184" />
-    <state width="637" height="232" key="GridCell.Tab.0.center" timestamp="1585314180183">
+    <state x="100" y="126" width="483" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1585560062066" />
+    <state x="139" y="145" width="424" height="520" key="FileChooserDialogImpl" timestamp="1585560048594">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="637" height="232" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1585314180183" />
-    <state width="637" height="232" key="GridCell.Tab.0.left" timestamp="1585314180183">
+    <state x="139" y="145" width="424" height="520" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1585560048594" />
+    <state width="637" height="232" key="GridCell.Tab.0.bottom" timestamp="1585565741981">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="637" height="232" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1585314180183" />
-    <state width="637" height="232" key="GridCell.Tab.0.right" timestamp="1585314180183">
+    <state width="637" height="232" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1585565741981" />
+    <state width="637" height="232" key="GridCell.Tab.0.center" timestamp="1585565741981">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="637" height="232" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1585314180183" />
+    <state width="637" height="232" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1585565741981" />
+    <state width="637" height="232" key="GridCell.Tab.0.left" timestamp="1585565741981">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="637" height="232" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1585565741981" />
+    <state width="637" height="232" key="GridCell.Tab.0.right" timestamp="1585565741981">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="637" height="232" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1585565741981" />
+    <state x="210" y="97" width="936" height="607" key="caller.chooser.dialog" timestamp="1585559663387">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="210" y="97" width="936" height="607" key="caller.chooser.dialog/0.27.1366.741@0.27.1366.741" timestamp="1585559663387" />
     <state x="676" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585307725325">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

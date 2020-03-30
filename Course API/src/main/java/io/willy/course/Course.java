@@ -1,22 +1,28 @@
-package io.willy.topic;
+package io.willy.course;
+
+import io.willy.topic.Topic;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.ManyToOne;
 
 @Entity
-public class Topic {
+public class Course {
     @Id
     private String id;
     private String name;
     private String description;
+    @ManyToOne
+    private Topic topic;
 
-    public Topic() {
+    public Course() {
     }
 
-    public Topic(String id, String mName, String description) {
+    public Course(String id, String mName, String description, String topicId) {
         this.id = id;
         this.name = mName;
         this.description = description;
+        this.topic = new Topic(topicId, "", "");
     }
 
     public String getId() {
@@ -41,5 +47,12 @@ public class Topic {
 
     public void setDescription(String description)   {
         this.description = description;
+    }
+    public Topic getTopic() {
+        return topic;
+    }
+
+    public void setTopic(Topic topic) {
+        this.topic = topic;
     }
 }
