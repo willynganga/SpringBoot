@@ -3,14 +3,10 @@ package com.example.demo.dao;
 import com.example.demo.model.Person;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.jdbc.core.CallableStatementCallback;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
 import javax.validation.constraints.NotNull;
-import java.math.BigInteger;
-import java.sql.SQLException;
-import java.sql.Types;
 import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
@@ -59,9 +55,7 @@ public class PersonDataAccessService implements PersonDao {
     @Override
     public void deletePersonByID(UUID id) {
         final String sql = "DELETE FROM person WHERE id=?";
-
         jdbcTemplate.update(sql, id);
-
     }
 
     @Override
